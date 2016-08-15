@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.dandyboxset" name="DandyMedia Boxsets" version="1.0.1" provider-name="Dandymedia">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver"  version="3.0.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">HD Boxsets from Dandymedia</summary>
+	<description lang="en">[B]One-click playlist of popular box-sets [CR][CR][COLOR red]Debrid Account Recommended [CR][CR]Any Capcha's just click 'DONE'[/COLOR][/B]</description>
+	<disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.physicality"
+	name="Physicality"
+	version="1.0.0"
+	provider-name="Dandymedia">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Fitness Videos</summary>
+    <description lang="en">Youtube fitness workout and fitness</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
+
+<addon id="plugin.video.vidmax" name="VidMax" version="0.0.1" provider-name="Dandymedia">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Constantly updating videos from Vidmax.com</summary>
+	<description lang="en">Vidmax videos from around the world, politics, wtf, funny, pranks, sports and More</description>
+	<disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
+</addons>
