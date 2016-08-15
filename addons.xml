@@ -17,7 +17,6 @@
   </extension>
 </addon>
 
-
 <addon id="plugin.video.physicality"
 	name="Physicality"
 	version="1.0.1"
