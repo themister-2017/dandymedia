@@ -340,7 +340,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
 	<summary lang="en">Movie Links</summary>
-	<description lang="en">Single click free Movie Links</description>
+	<description lang="en">Free Movie Links all from Openload[CR][CR]Note:[CR]If link does not play first time press play again.</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
   </extension>
