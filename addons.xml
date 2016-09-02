@@ -19,7 +19,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.bobbycart" name="Bobbys Cartoons" version="0.0.2" provider-name="Dandymedia">
+<addon id="plugin.video.bobbycart" name="Bobbys Cartoons" version="1.0.0" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -30,7 +30,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
 	<summary lang="en">Cartoons and Animation</summary>
-	<description lang="en">Hand picked Collection of One-click Cartoon Series from Toonget and Kisspanda</description>
+	<description lang="en">Hand picked Collection of Cartoon Series from Toonget and Kisspanda...Enjoy</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
   </extension>
@@ -358,6 +358,24 @@
   <extension point="xbmc.addon.metadata">
 	<summary lang="en">Movie and TV links</summary>
 	<description lang="en">Multiple Links for TV and Movies both HD and SD [CR][CR] A Special thanks to the MuckyDuck for all his help and pointers.</description>
+	<disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.tvtimes" name="TV Times" version="0.0.1" provider-name="Dandymedia">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver"  version="3.0.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Latest TV and Movie Links Multi Debrid from TVrelease.net</summary>
+	<description lang="en">Latest TV and Movie links, Multiple formats.[CR]Rapidgator,Filefactory and Uploaded Hosters only.[CR][CR][B][COLOR red]A Debrid account is required[/COLOR][/B]</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
   </extension>
