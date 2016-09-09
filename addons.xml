@@ -329,7 +329,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.openloadmovies" name="Openload Movies" version="0.0.6" provider-name="Dandymedia">
+<addon id="plugin.video.openloadmovies" name="Openload Movies" version="1.0.0" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -340,7 +340,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
 	<summary lang="en">Movie Links</summary>
-	<description lang="en">Free Movie Links all from Openload Movies</description>
+	<description lang="en">Free Movie Links all from Openload Movies,Now with TV Also</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
   </extension>
