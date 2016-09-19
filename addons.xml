@@ -432,6 +432,22 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.madiptv" name="Mad IPTV" version="1.0.1" provider-name="Keysor Soze">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">IPTV Links</summary>
+	<description lang="en">Free Links with Back UP</description>
+	<disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.moviezone" name="Movie ZONE" version="1.0.0" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
