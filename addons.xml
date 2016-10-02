@@ -195,7 +195,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.seriestop" name="SeriesTop Online" version="0.0.5" provider-name="Dandymedia">
+<addon id="plugin.video.seriestop" name="SeriesTop Online" version="0.0.6" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -261,7 +261,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.uwatchfree" name="UwatchFree" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.uwatchfree" name="UwatchFree" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -271,7 +271,7 @@
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">Movies/Tv Shows Multiple sources</summary>
+	<summary lang="en">Movies?Tv Shows Multiple sources</summary>
 	<description lang="en">Using uwatchfree.org</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
