@@ -87,35 +87,21 @@
   </extension>
 </addon>
 
-
-<addon id="plugin.video.dandymedia"
-       name="DandyMedia"
-       version="1.3"
-       provider-name="Dandymedia">
+<addon id="plugin.video.dandymedia" name="DandyMedia" version="2.0" provider-name="DandyMedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
+	<import addon="script.module.urlresolver"  version="3.0.0"/>
+	<import addon="script.module.addon.common" />
+    <import addon="plugin.video.youtube" version="5.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
+		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Enjoy the best of Dandymedia</summary>
-    <description lang="en">[B][COLOR blue]Dandymedia Playlist[/COLOR] from [COLOR blue]i[/COLOR]Stream, for more lists and the full [COLOR blue]i[/COLOR]Stream package go to the [COLOR blue]X[/COLOR]unitytalk Repo.[/B]</description>
-    <platform>all</platform>
+    <description lang="en">[B][COLOR blue]Dandymedia Movies, TV Shows, Childrens Shows,  Playlists and more [/COLOR][/B]</description>
+	<disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
   </extension>
 </addon>
 
