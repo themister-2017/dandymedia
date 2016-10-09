@@ -181,7 +181,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.seriestop" name="SeriesTop Online" version="0.0.7" provider-name="Dandymedia">
+<addon id="plugin.video.seriestop" name="SeriesTop Online" version="0.0.8" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
