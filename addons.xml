@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.video.binkytv" name="Binky TV" version="1.0.3" provider-name="Dandymedia">
+<addon id="plugin.video.binkytv" name="Binky TV" version="1.0.4" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="0.0.1"/>
@@ -19,7 +19,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.bobbycart" name="Bobbys Cartoons" version="1.0.0" provider-name="Dandymedia">
+<addon id="plugin.video.bobbycart" name="Bobbys Cartoons" version="1.0.1" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -36,7 +36,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.buzzvids" name="BuzzFunny Videos" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.buzzvids" name="BuzzFunny Videos" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -53,7 +53,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.cartoonson" name="CartoonsOn" version="0.0.2" provider-name="Dandymedia">
+<addon id="plugin.video.cartoonson" name="CartoonsOn" version="0.0.3" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -70,7 +70,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.dandyboxset" name="DandyMedia Boxsets" version="1.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.dandyboxset" name="DandyMedia Boxsets" version="1.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -87,7 +87,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.dandymedia" name="DandyMedia" version="2.1" provider-name="DandyMedia">
+<addon id="plugin.video.dandymedia" name="DandyMedia" version="2.2" provider-name="DandyMedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -105,7 +105,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.docaddict" name="Documentary Addict" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.docaddict" name="Documentary Addict" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -122,7 +122,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.freelecture" name="Free Video Lectures" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.freelecture" name="Free Video Lectures" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -141,7 +141,7 @@
 
 <addon id="plugin.video.iconspire"
 	name="iConspire"
-	version="1.0.2"
+	version="1.0.3"
 	provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -162,7 +162,7 @@
 
 <addon id="plugin.video.physicality"
 	name="Physicality"
-	version="1.0.0"
+	version="1.0.1"
 	provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -181,7 +181,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.seriestop" name="SeriesTop Online" version="0.0.8" provider-name="Dandymedia">
+<addon id="plugin.video.seriestop" name="SeriesTop Online" version="0.0.9" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -198,7 +198,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.storybots" name="StoryBots" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.storybots" name="StoryBots" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -214,7 +214,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.t4charts" name="Top40-Charts" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.t4charts" name="Top40-Charts" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -231,7 +231,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.turtlediary" name="TurtleDiary" version="0.0.3" provider-name="Dandymedia">
+<addon id="plugin.video.turtlediary" name="TurtleDiary" version="0.0.4" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -247,7 +247,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.uwatchfree" name="UwatchFree" version="0.0.2" provider-name="Dandymedia">
+<addon id="plugin.video.uwatchfree" name="UwatchFree" version="0.0.3" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -264,7 +264,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.vidmax" name="VidMax" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.vidmax" name="VidMax" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -280,7 +280,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.watchepisode" name="Watch Episodes" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.watchepisode" name="Watch Episodes" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -297,7 +297,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.fineanddandy" name="Fine and Dandy" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.fineanddandy" name="Fine and Dandy" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -315,7 +315,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.openloadmovies" name="Openload Movies" version="1.0.3" provider-name="Dandymedia">
+<addon id="plugin.video.openloadmovies" name="Openload Movies" version="1.0.4" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -332,7 +332,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.hdflixtv" name="HD FLIX.tv" version="0.0.3" provider-name="Dandymedia">
+<addon id="plugin.video.hdflixtv" name="HD FLIX.tv" version="0.0.4" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -349,7 +349,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.tvtimes" name="TV Times" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.tvtimes" name="TV Times" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -367,7 +367,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.ifeelmovies" name="I FeelMovies" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.ifeelmovies" name="I FeelMovies" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -384,7 +384,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.watchipmov" name="IP Movies" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.watchipmov" name="IP Movies" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -401,7 +401,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.hevcvideoclub" name="HEVC VideoClub" version="1.0.0" provider-name="Dandymedia">
+<addon id="plugin.video.hevcvideoclub" name="HEVC VideoClub" version="1.0.1" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -418,7 +418,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.movieecho" name="Movie Echo" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.movieecho" name="Movie Echo" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -436,7 +436,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.moviemadness" name="Movie Madness" version="0.0.1" provider-name="Dandymedia">
+<addon id="plugin.video.moviemadness" name="Movie Madness" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -453,7 +453,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.toptvshows" name="Top-TV Shows" version="0.0.2" provider-name="Dandymedia">
+<addon id="plugin.video.toptvshows" name="Top-TV Shows" version="0.0.3" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>

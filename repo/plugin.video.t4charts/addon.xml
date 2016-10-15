@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.t4charts" name="Top40-Charts" version="0.0.2" provider-name="Dandymedia">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver"  version="3.0.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Music Charts sourced from top40-charts.com </summary>
+	<description lang="en">Videos played using the YouTube addon and will need to be installed</description>
+	<disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
