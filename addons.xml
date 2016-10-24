@@ -471,4 +471,22 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.moviezone" name="Movie ZONE" version="1.0.5" provider-name="Dandymedia">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver"  version="3.0.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Movies</summary>
+	<description lang="en">Movie links in SD and HD from moviezone.ch, When only one source available also could be empty.</description>
+	<disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
 </addons>
