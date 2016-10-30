@@ -301,7 +301,6 @@
 <addon id="plugin.video.openloadmovies" name="Openload Movies" version="1.0.6" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.urlresolver"  version="3.0.0"/>
 	<import addon="script.module.addon.common" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
