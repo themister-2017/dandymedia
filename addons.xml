@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.video.binkytv" name="Binky TV" version="1.0.5" provider-name="Dandymedia">
+<addon id="plugin.video.binkytv" name="Binky TV" version="1.0.6" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="0.0.1"/>
