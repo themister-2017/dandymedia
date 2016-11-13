@@ -316,23 +316,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.hdflixtv" name="HD FLIX.tv" version="0.0.4" provider-name="Dandymedia">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.urlresolver"  version="3.0.0"/>
-	<import addon="script.module.addon.common" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-	<summary lang="en">Movie and TV links</summary>
-	<description lang="en">Multiple Links for TV and Movies both HD and SD.</description>
-	<disclaimer lang="en"></disclaimer>
-	<platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.tvtimes" name="TV Times" version="0.0.2" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
