@@ -458,10 +458,9 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.moviezone" name="Movie ZONE" version="1.0.6" provider-name="Dandymedia">
+<addon id="plugin.video.moviezone" name="Movie ZONE" version="1.1.0" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.urlresolver"  version="3.0.0"/>
 	<import addon="script.module.addon.common" />
 	<import addon="script.module.requests" />
   </requires>
@@ -469,8 +468,8 @@
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">Movies</summary>
-	<description lang="en">Changed source - Movie links and TV Shows</description>
+	<summary lang="en">Movies and TV</summary>
+	<description lang="en">NEW source - Movies and TV Shows.....Enjoy</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
   </extension>
