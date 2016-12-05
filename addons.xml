@@ -284,7 +284,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.fineanddandy" name="Fine and Dandy" version="0.0.3" provider-name="Dandymedia">
+<addon id="plugin.video.fineanddandy" name="Fine and Dandy" version="0.0.5" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -295,8 +295,8 @@
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">Multiple Debrid Links to Movies</summary>
-	<description lang="en">Multiple debrid links 720/1080, 3D and 4K[CR][CR][B][COLOR red]You Will Need A Debrid Account with this addon[/COLOR][/B][CR][CR]A Special thanks to Mucky Duck for the search fuction,coding help and guidance. A Gentleman and an asset to the Kodi Community.</description>
+	<summary lang="en">Multiple Debrid Links to Movies and TV Shows</summary>
+	<description lang="en">Multiple debrid links 720/1080, 3D and 4K[CR]Now with TV Section - Sister site in beta added.[CR][CR][B][COLOR red]You Will Benefit with a Debrid Account using this addon,[CR]More links will become available.[/COLOR][/B][CR][CR]A Special thanks to Mucky Duck for the search fuction,coding help and guidance. A Gentleman and an asset to the Kodi Community.</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
   </extension>
@@ -370,7 +370,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.hevcvideoclub" name="HEVC VideoClub" version="1.0.7" provider-name="Dandymedia">
+<addon id="plugin.video.hevcvideoclub" name="HEVC VideoClub" version="1.0.8" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
