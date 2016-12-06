@@ -88,7 +88,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.dandymedia" name="DandyMedia" version="2.6.5" provider-name="DandyMedia">
+<addon id="plugin.video.dandymedia" name="DandyMedia" version="2.6.6" provider-name="DandyMedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -577,7 +577,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.inthemovies" name="In the Movies" version="1.0.0" provider-name="Dandymedia">
+<addon id="plugin.video.inthemovies" name="In the Movies" version="1.0.1" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
