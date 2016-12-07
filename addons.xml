@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.video.binkytv" name="Binky TV" version="1.1.0" provider-name="Dandymedia">
+<addon id="plugin.video.binkytv" name="Binky TV" version="1.1.1" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="0.0.1"/>
@@ -53,7 +53,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.cartoonson" name="CartoonsOn" version="1.0.4" provider-name="Dandymedia">
+<addon id="plugin.video.cartoonson" name="CartoonsOn" version="1.0.5" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
