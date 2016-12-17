@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.moviemadness" name="Movie Madness" version="0.0.2" provider-name="Dandymedia">
+<addon id="plugin.video.moviemadness" name="Movie Madness" version="1.0.0" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -9,8 +9,8 @@
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">Scrapped from movie4k.sc</summary>
-	<description lang="en">Dual links with trailers</description>
+	<summary lang="en">Updated Source - Movies and TV</summary>
+	<description lang="en">Scrapped from Torba.se HD and SD links</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
   </extension>
