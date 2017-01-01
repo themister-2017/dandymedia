@@ -559,7 +559,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.movieaddictz_gw" name="MovieAddictz" version="1.0.0" provider-name="Dandymedia">
+<addon id="plugin.video.movieaddictz_gw" name="MovieAddictz" version="1.0.1" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>

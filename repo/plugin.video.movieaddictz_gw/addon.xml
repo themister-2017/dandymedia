@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.movieaddictz_gw" name="MovieAddictz" version="1.0.0" provider-name="Dandymedia">
+<addon id="plugin.video.movieaddictz_gw" name="MovieAddictz" version="1.0.1" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
@@ -11,7 +11,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
 	<summary lang="en">Movies and TV from Vumoo</summary>
-	<description lang="en">One click links favouring Googlelinks if available, Openload back up links else which will benefit from a debrid account</description>
+	<description lang="en">One click links favouring Googlelinks if available, Openload back up links else which will benefit from a debrid account.[CR][CR]Pair online before you start to avoid pop up altogether go to https://openload.co/pair remains valid for 4 hours.</description>
 	<disclaimer lang="en"></disclaimer>
 	<platform>all</platform>
   </extension>
