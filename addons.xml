@@ -700,7 +700,24 @@
   </extension>
 </addon>
 
-<addon id="script.module.muckys.common" name="Muckys Common Libraries" version="1.1.0" provider-name="Mucky Duck">
+<addon id="plugin.video.supercartoons_gw" name="Super-Cartoons" version="1.0.0" provider-name="Dandymedia">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.muckys.common"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Vintage Cartoons</summary>
+	<description lang="en">Cartoons from supercartoons</description>
+	<disclaimer lang="en"></disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.muckys.common" name="Muckys Common Libraries" version="1.1.5" provider-name="Mucky Duck">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
