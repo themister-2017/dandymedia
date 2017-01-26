@@ -648,7 +648,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.filmemporium_gw" name="Film Emporium" version="1.0.2" provider-name="Dandymedia">
+<addon id="plugin.video.filmemporium_gw" name="Film Emporium" version="1.0.3" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.urlresolver"  version="3.0.0"/>
