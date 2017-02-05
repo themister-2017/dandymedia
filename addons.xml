@@ -284,7 +284,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.openloadmovies" name="Openload Movies" version="1.2.7" provider-name="Dandymedia">
+<addon id="plugin.video.openloadmovies" name="Openload Movies" version="1.2.8" provider-name="Dandymedia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -701,7 +701,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.muckys.common" name="Muckys Common Libraries" version="1.1.7" provider-name="Mucky Duck">
+<addon id="script.module.muckys.common" name="Muckys Common Libraries" version="1.1.8" provider-name="Mucky Duck">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
